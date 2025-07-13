@@ -1,0 +1,32 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Users\\Luis Trujillo Lopez\\AppData\\Roaming\\nvm\\v22.11.0\\node_modules\\npx\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'tsdx@latest',
+1 verbose cli   '--global',
+1 verbose cli   '--prefix',
+1 verbose cli   'D:\\React',
+1 verbose cli   'PRO\\01\\02-react-app\\npm-cache\\_npx\\15144',
+1 verbose cli   '--loglevel',
+1 verbose cli   'error',
+1 verbose cli   '--json'
+1 verbose cli ]
+2 info using npm@5.1.0
+3 info using node@v22.11.0
+4 verbose npm-session 77702f6bbc394ed2
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 silly fetchPackageMetaData error for file:PRO\01\02-react-app\npm-cache\_npx\15144 Could not install from "PRO\01\02-react-app\npm-cache\_npx\15144" as it does not contain a package.json file.
+8 http fetch GET 200 https://registry.npmjs.org/tsdx 852ms
+9 http fetch GET 200 https://registry.npmjs.org/tsdx/-/tsdx-0.14.1.tgz 236ms
+10 silly pacote tag manifest for tsdx@latest fetched in 1401ms
+11 verbose stack Error: ENOENT: no such file or directory, open 'D:\React PRO\01\02-react-app\PRO\01\02-react-app\npm-cache\_npx\15144\package.json'
+12 verbose cwd D:\React PRO\01\02-react-app
+13 verbose Windows_NT 10.0.26100
+14 verbose argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\Luis Trujillo Lopez\\AppData\\Roaming\\nvm\\v22.11.0\\node_modules\\npx\\node_modules\\npm\\bin\\npm-cli.js" "install" "tsdx@latest" "--global" "--prefix" "D:\\React" "PRO\\01\\02-react-app\\npm-cache\\_npx\\15144" "--loglevel" "error" "--json"
+15 verbose node v22.11.0
+16 verbose npm  v5.1.0
+17 error code ENOLOCAL
+18 error Could not install from "PRO\01\02-react-app\npm-cache\_npx\15144" as it does not contain a package.json file.
+19 verbose exit [ 1, true ]
