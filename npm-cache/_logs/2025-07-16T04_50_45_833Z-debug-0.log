@@ -7,7 +7,7 @@
 6 silly config load:file:C:\Program Files\nodejs\etc\npmrc
 7 verbose title npm start
 8 verbose argv "start"
-9 verbose logfile logs-max:10 dir:D:\ReactPRO\01\02-react-app\npm-cache\_logs\2025-07-14T18_12_19_490Z-
-10 verbose logfile D:\ReactPRO\01\02-react-app\npm-cache\_logs\2025-07-14T18_12_19_490Z-debug-0.log
+9 verbose logfile logs-max:10 dir:D:\ReactPRO\01\02-react-app\npm-cache\_logs\2025-07-16T04_50_45_833Z-
+10 verbose logfile D:\ReactPRO\01\02-react-app\npm-cache\_logs\2025-07-16T04_50_45_833Z-debug-0.log
 11 silly logfile start cleaning logs, removing 1 files
 12 silly logfile done cleaning log files
